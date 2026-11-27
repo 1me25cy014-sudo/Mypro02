@@ -1,4 +1,4 @@
-Main page
-Edited from clone
-Edited by teammate
-Rebase demo by teammate
+Main page.
+Edited from clone.
+Edited by teammate.
+Rebase demo by teammate.
